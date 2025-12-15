@@ -1,0 +1,5 @@
+{
+  "name": "Bank Reconciliation Pro",
+  "description": "Professional bank reconciliation tool implementing rules 1-12 with advanced UI.",
+  "requestFramePermissions": []
+}
