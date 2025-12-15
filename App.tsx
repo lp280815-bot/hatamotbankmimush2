@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import * as XLSX from 'xlsx';
 import { Upload, FileUp, Settings, Download, CheckCircle, AlertTriangle, Play, FileSpreadsheet } from 'lucide-react';
-import { processWorkbook } from './utils/excelLogic';
+import { processWorkbook } from './excelLogic';
 import { ConfigMap, ProcessingResult } from './types';
 
 // Default Config
