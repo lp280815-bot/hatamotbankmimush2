@@ -1,5 +1,5 @@
 import * as XLSX from 'xlsx';
-import { BankRow, ConfigMap, ProcessingResult } from '../types';
+import { BankRow, ConfigMap, ProcessingResult } from './types';
 
 // Constants
 const STANDING_CODES = new Set([469, 515]);
